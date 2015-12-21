@@ -20,7 +20,7 @@ I challenged myself to create the [Tilt Shift](https://en.wikipedia.org/wiki/Til
 
 Scuba diving photo tuning
 ------------
-I enjoy scuba diving, and underwater photography. At some water depth, red light is absorbed, and its opposite color - green - appears to dominate. This notebook is an attempt at automating what I do manually with some diving photos I've taken (enhancing red, and a bit of blue, diminishing green, and enhancing sharpness and contrast)
+I enjoy scuba diving, and underwater photography. At some water depth, red light is absorbed, and its opposite color - green - appears to dominate. This notebook is an attempt at automating what I do manually with some diving photos I've taken (enhancing red, and a bit of blue, diminishing green, and enhancing sharpness and contrast)  
 These, from the example, I've taken at Laje de Santos, SP, Brazil.
 
 ![Tilt shift](DocImages/DivePhotoTuning.png)
