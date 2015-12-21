@@ -17,3 +17,10 @@ Tilt shift
 I challenged myself to create the [Tilt Shift](https://en.wikipedia.org/wiki/Tilt%E2%80%93shift_photography) effect from scratch (using nothing but morphological operations of scipy) without searching it up. This notebook contains the result.
 
 ![Tilt shift](DocImages/TiltShift.png)
+
+Scuba diving photo tuning
+------------
+I enjoy scuba diving, and underwater photography. At some water depth, red light is absorbed, and its opposite color - green - appears to dominate. This notebook is an attempt at automating what I do manually with some diving photos I've taken.  
+These, from the example, I've taken at Laje de Santos, SP, Brazil.
+
+![Tilt shift](DocImages/DivePhotoTuning.png)
